@@ -1,7 +1,7 @@
 attrs==19.3.0
 bcrypt==3.1.7
 cffi==1.13.2
-cryptography==2.8
+cryptography==41.0.0
 fabric==2.5.0
 ftputil~=4.0.0
 importlib-metadata==1.5.0
