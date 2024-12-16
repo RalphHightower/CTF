@@ -2,9 +2,9 @@ astroid==2.5
 attrs==19.3.0
 bcrypt==3.1.7
 cffi==1.13.2
-configobj==5.0.8
+configobj==5.0.9
 coverage==5.3.1
-cryptography==2.8
+cryptography==44.0.0
 demjson==2.2.4
 fabric==2.5.0
 ftputil==4.0.0
@@ -17,7 +17,7 @@ lazy-object-proxy==1.10.0
 mccabe==0.6.1
 mock==4.0.3
 packaging==23.2
-paramiko==2.6.0
+paramiko==3.5.0
 pluggy==1.3.0
 psutil==5.7.0
 py==1.11.0
@@ -31,4 +31,4 @@ pytest-cov==2.10.1
 six==1.13.0
 toml==0.10.2
 wrapt==1.12.1
-zipp==3.1.0
+zipp==3.19.1
